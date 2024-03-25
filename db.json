@@ -1,0 +1,47 @@
+{
+  "NEGATIVACAO": {
+    "VERSAO": 20012022,
+    "ENTIDADE": 1000,
+    "CODIGO": 12345678,
+    "OPERACAO": 1,
+    "BASE": 1,
+    "RETORNO": {
+      "DEVEDORES": {
+        "DEVEDOR": {
+          "ASSOCIADO": 12345678,
+          "DOCUMENTO": 97577097004,
+          "NOME": "TESTE TESTE TESTE",
+          "NASCIMENTO": 21061990,
+          "SEXO": "M",
+          "ESTADO-CIVIL": "S",
+          "NATURAL": "SAO PAULO",
+          "NATURAL-UF": "SP",
+          "NACIONALIDADE": "B",
+          "PAI": "NT",
+          "MAE": "NT",
+          "CONJUGE": "NT",
+          "ENDERECO": "RUA NOME DA RUA DE TESTE",
+          "NUMERO": "000",
+          "BAIRRO": "NOME BAIRRO TESTE",
+          "CIDADE": "CIDADE TESTE",
+          "UF": "SP",
+          "CEP": 1234568,
+          "DIVIDA": {
+            "TIPO": "15",
+            "CONTRATO": "1293871289378912378912",
+            "VENCIMENTO": 10102023,
+            "VENDA": 10052023,
+            "VALOR": "1000",
+            "NUMERO-RESPOSTA-INCLUSAO": 157796718,
+            "DATA-INCLUSAO": 25032024,
+            "HORA-INCLUSAO": 145618
+          }
+        }
+      },
+      "ERRO": 0,
+      "MENSAGEM": "Inclusão efetuada com sucesso",
+      "NOME-ASSOCIADO": "CONSULTANET SERVICOS LTDA",
+      "NUMERO-RESPOSTA": 157796718
+    }
+  }
+}
